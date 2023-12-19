@@ -29,6 +29,7 @@ class Car extends Vehicle{
    void getModel(){
      print(_model);
    }
+   //override is not required in dart
 }
 
 main(){
